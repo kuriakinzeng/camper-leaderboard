@@ -1,0 +1,13 @@
+.userimg {
+  width: 40px;
+  max-height: 40px;
+  margin-right: 4px;
+}
+
+.sortable {
+  cursor: pointer;
+}
+
+.sortable:hover {
+  text-decoration: underline;
+}
